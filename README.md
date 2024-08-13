@@ -5,7 +5,7 @@ If we want to isolate our dependencies then we must need to use virtual environm
 For creating virtual environment we use the below commands.
 First we install virtualenv library using pip python package installer.
 >>pip install virtualenv
-then
+then type below command
 >> virtualenv env_name
 After executing above command virtualenv will be created as given env_name.
 
